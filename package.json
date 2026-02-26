@@ -1,0 +1,1 @@
+{\n  "name": "pix-checkout-nextjs",\n  "version": "1.0.0",\n  "description": "A Next.js project for Pix Checkout",\n  "dependencies": {\n    "qrcode.react": "latest"\n  }\n}
